@@ -349,3 +349,11 @@ And here is the output of the program in example 4
 
 1 0 2 0 2 2 -1 1 -1 1
 ```
+
+## EXERCISES 
+1. Create a matrix C with order 2x3, and the values given to matrix C are as follows: Row 1 Column 1, value = 1 Row 1 Column 2, value = 2 Row 1 Column 3, value = 3 Row 2 Column 1, value = 4 Row 2 Column 2, value = 5 Row 2 Column 3, value = 6.
+2. Create a matrix with order 3x2, with values are: Row 1 Column 1, value = 2 Row 1 Column 2, value = 2 Row 2 Column 1, value = 2 Row 2 Column 2, value = 2 Row 3 Column 1, value = 2 Row 3 Column 2, value = 2.
+3. Create a matrix using the Numpy Library with an element length is 32 and the matrix has order of 4x8.
+4. Create a matrix using the Numpy Library with the order of 3x30, and the element values start from index 1 to 5 randomly.
+5. Create a sum of two matrices using the Numpy library, with a 7x9 matrix whose values are obtained randomly.
+6. Create a subtraction of two matrices using the Numpy library, with a 7x9 matrix whose values are obtained randomly.
